@@ -1,6 +1,6 @@
 # Orange Juice Impedance Spectroscopy: Machine Learning
 
-The code behind the machine-learning results in our paper (the reference will be added once it is published). It trains classical ML models (scikit-learn, XGBoost, CatBoost, …) on impedance spectra of orange juices for three tasks:
+The code behind the machine-learning results in *"Electrical Impedance Spectroscopic Sensing and Spectral Analysis for Liquid Authenticity: An Orange Juice Case Study"*, **Sensors** (MDPI), 2026, in press. It trains classical ML models (scikit-learn, XGBoost, CatBoost, …) on impedance spectra of orange juices for three tasks:
 
 | Notebook | Task |
 |---|---|
@@ -56,4 +56,19 @@ The dataset is licensed separately under [CC BY 4.0](https://github.com/Zeynep-K
 
 ## Citation
 
-If you use the dataset, please cite the accompanying paper. We would also appreciate a citation if this code helps your work. The full reference and BibTeX entry will be added here once the paper is published.
+If you use the dataset, please cite the paper below. We would also appreciate a citation if this code helps your work.
+
+> Z. Kara, O. Aybar, M. Yücel, B. B. Üstündağ, "Electrical Impedance Spectroscopic Sensing and Spectral Analysis for Liquid Authenticity: An Orange Juice Case Study", *Sensors* (MDPI), 2026, in press.
+
+```bibtex
+@article{kara2026orange,
+  title   = {Electrical Impedance Spectroscopic Sensing and Spectral Analysis for Liquid Authenticity: An Orange Juice Case Study},
+  author  = {Kara, Zeynep and Aybar, O{\u{g}}uzhan and Y{\"u}cel, Meri{\c{c}} and {\"U}st{\"u}nda{\u{g}}, Burak Berk},
+  journal = {Sensors},
+  publisher = {MDPI},
+  year    = {2026},
+  note    = {In press}
+}
+```
+
+The volume, article number and DOI will be added once the paper is published.
