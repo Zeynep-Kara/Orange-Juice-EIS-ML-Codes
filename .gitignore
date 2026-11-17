@@ -1,0 +1,11 @@
+# data (downloaded separately)
+experiment_logs/*.csv
+
+# generated results
+iter_50/**/*.csv
+catboost_info/
+
+# python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
